@@ -1,0 +1,2 @@
+class Usertemp < ApplicationRecord
+end
